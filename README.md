@@ -1,6 +1,6 @@
 # MCP Server OS Tools
 
-This is a python bundle to use with the mcp python container:
+This is a python bundle to use with the mcp python container:<br>
 https://github.com/ground-creative/mcp-container-python
 
 ## Installation
