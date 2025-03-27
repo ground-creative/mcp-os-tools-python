@@ -5,7 +5,7 @@ https://github.com/ground-creative/mcp-container-python
 
 ## Installation
 
-1. Follow instructions to install the MCP Python container from here:\n
+1. Follow instructions to install the MCP Python container from here:<br>
    https://github.com/ground-creative/mcp-container-python
 
 2. Clone the repository in folder mcp_server
